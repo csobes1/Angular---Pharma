@@ -1,0 +1,71 @@
+[
+    {
+        "_id": "1",
+        "nombre": "Acetaminofen",
+        "tipo": "Pastilla",
+        "categoria": ["Medicina","Solucion"],
+        "imageUrl": [
+            "../../assets/img/products/pharma/1.jpg",
+            "../../assets/img/products/pharma/2.jpg",
+            "../../assets/img/products/pharma/3.jpg",
+            "../../assets/img/products/pharma/4.jpg"
+         
+        ],
+        "precio_venta": 50,
+        "precio_regular": 70,
+        "create_at": "2024-09-16T16:50:07.214X",
+        "slug": "clase-acetaminofen"
+    },
+
+    {
+        "_id": "2",
+        "nombre": "Trimetroprin",
+        "tipo": "Pastilla",
+        "categoria": ["Medicina","Solucion"],
+        "imageUrl": [
+            "../../assets/img/products/pharma/2.jpg",
+            "../../assets/img/products/pharma/1.jpg",
+            "../../assets/img/products/pharma/3.jpg",
+            "../../assets/img/products/pharma/4.jpg"
+         
+        ],
+        "precio_venta": 30,
+        "precio_regular": 50,
+        "create_at": "2024-09-16T16:50:07.214X",
+        "slug": "clase-trimetroprin"
+    },
+    {
+        "_id": "3",
+        "nombre": "Tabcin",
+        "tipo": "Tableta",
+        "categoria": ["Medicina","Solucion"],
+        "imageUrl": [
+            "../../assets/img/products/pharma/3.jpg",
+            "../../assets/img/products/pharma/2.jpg",
+            "../../assets/img/products/pharma/1.jpg",
+            "../../assets/img/products/pharma/4.jpg"
+         
+        ],
+        "precio_venta": 10,
+        "precio_regular": 20,
+        "create_at": "2024-09-16T16:50:07.214X",
+        "slug": "clase-tabcin"
+    },
+    {
+        "_id": "4",
+        "nombre": "Paracetamol",
+        "tipo": "Pastilla",
+        "categoria": ["Medicina","Solucion"],
+        "imageUrl": [
+            "../../assets/img/products/pharma/4.jpg",
+            "../../assets/img/products/pharma/1.jpg",
+            "../../assets/img/products/pharma/2.jpg",
+            "../../assets/img/products/pharma/3.jpg"
+         
+        ],
+        "precio_venta": 25,
+        "precio_regular": 35,
+        "create_at": "2024-09-16T16:50:07.214X",
+        "slug": "clase-paracetamol"
+    }
+]
